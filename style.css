@@ -1,0 +1,41 @@
+.header{
+	margin: 2px;
+	height: 150px;
+	background-color: red;
+	text-align: center;
+}
+.wraper{
+      overflow: hidden;
+
+}
+.container{
+	margin: 2px;
+	float: left;
+	width: 32.9%;
+	height: 300px;
+	background-color: green;
+      text-align: center;}
+
+.container2{
+	margin: 2px;
+	float: left;
+	width: 32.9%;
+	height: 300px;
+	background-color: blue;
+	text-align: center;
+}
+.container3{
+	margin: 2px;
+	float: left;
+	width: 33%;
+	height: 300px;
+	background-color: yellow;
+	text-align: center;
+}
+.futter{
+	
+	height: 50px;
+	background-color: #3E96E3;
+	text-align: center;
+
+}
